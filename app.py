@@ -7,7 +7,7 @@
 import streamlit as st
 import requests
 
-API_KEY = '76cffb499a62c5ec09858be87c50cced'
+API_KEY = '59ea17fdfdb23d1baa3dc61e90050861'
 
 # Data provinsi dan kota
 provinces_data = {
